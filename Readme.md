@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ParameterValues.js](./CS/Dashboard_SetParameterValues_Web/Scripts/ParameterValues.js) (VB: [ParameterValues.js](./VB/Dashboard_SetParameterValues_Web/Scripts/ParameterValues.js))
+* [WebForm1.aspx](./CS/Dashboard_SetParameterValues_Web/WebForm1.aspx) (VB: [WebForm1.aspx.vb](./VB/Dashboard_SetParameterValues_Web/WebForm1.aspx.vb))
+* [WebForm1.aspx.cs](./CS/Dashboard_SetParameterValues_Web/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/Dashboard_SetParameterValues_Web/WebForm1.aspx.vb))
+<!-- default file list end -->
 # How to specify dashboard parameter values on the client side in the Web Viewer
 
 
