@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to specify dashboard parameter values on the client side in the Web Viewer
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t205300)**
+**[[Run Online]](https://codecentral.devexpress.com/t205300/)**
 <!-- run online end -->
 
 
